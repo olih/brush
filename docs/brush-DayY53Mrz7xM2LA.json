@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-DayY53Mrz7xM2LA.json",
+  "content-url json en": "https://olih.github.io/brush/brush-DayY53Mrz7xM2LA.json",
   "name": "brush-DayY53Mrz7xM2LA",
   "@type": "ImageObject",
   "title en": "Brush brush-DayY53Mrz7xM2LA",
   "description en": "Brush based on a stake of 5 points, a weight of 1/3 and the following rules I->SJJ, J->KJS, K->LKI starting with LII resulting in frequency M:1, L:1, C:0, S:4, Q:0, T:0, Z:0, E:0, Total:6",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 89/372 -1/30,L 9659/138000 -587/2000,S -782711/5796000 -197201/744000 -37/120 -1549/12000,S -776047/4712000 26417/252000 -19511/228000 1101/4000,S 6275/102486 336139/1116000 85939/372000 88633/372000,S 4169719/15624000 218563/8184000 89/372 -1/30 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 89/372 -1/30,L 9659/138000 -587/2000,S -782711/5796000 -197201/744000 -37/120 -1549/12000,S -776047/4712000 26417/252000 -19511/228000 1101/4000,S 6275/102486 336139/1116000 85939/372000 88633/372000,S 4169719/15624000 218563/8184000 89/372 -1/30 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

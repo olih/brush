@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-O6rXR3bYYNjda2p.json",
+  "content-url json en": "https://olih.github.io/brush/brush-O6rXR3bYYNjda2p.json",
   "name": "brush-O6rXR3bYYNjda2p",
   "@type": "ImageObject",
   "title en": "Brush brush-O6rXR3bYYNjda2p",
   "description en": "Brush based on a stake of 10 points, a weight of 1/5 and the following rules I->IJSLLS, J->IISLLS, K->SLLSIK starting with JKSLLS resulting in frequency M:1, L:4, C:0, S:6, Q:0, T:0, Z:0, E:0, Total:11",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 61/260 7/145,S 142119/728000 22634791/453096000 2327/12000 6509/252000,L 217/2000 -2173/372000,L -2763/28000 -67/12000,S -53391/532000 27583/1116000 -149/800 32597/1116000,S -56309/257600 -39571/2232000 -2/7 -6/125,L -12153/68000 -5909/252000,L -1963/28000 -13993/348000,S 23/3500 -165617/2262000 269/4000 -2921/156000,S 971/6000 -1178243/55692000 959/4000 -2779/612000,S 756943/3016000 1959409/35496000 61/260 7/145 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 61/260 7/145,S 142119/728000 22634791/453096000 2327/12000 6509/252000,L 217/2000 -2173/372000,L -2763/28000 -67/12000,S -53391/532000 27583/1116000 -149/800 32597/1116000,S -56309/257600 -39571/2232000 -2/7 -6/125,L -12153/68000 -5909/252000,L -1963/28000 -13993/348000,S 23/3500 -165617/2262000 269/4000 -2921/156000,S 971/6000 -1178243/55692000 959/4000 -2779/612000,S 756943/3016000 1959409/35496000 61/260 7/145 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

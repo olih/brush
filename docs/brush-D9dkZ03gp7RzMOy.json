@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-D9dkZ03gp7RzMOy.json",
+  "content-url json en": "https://olih.github.io/brush/brush-D9dkZ03gp7RzMOy.json",
   "name": "brush-D9dkZ03gp7RzMOy",
   "@type": "ImageObject",
   "title en": "Brush brush-D9dkZ03gp7RzMOy",
   "description en": "Brush based on a stake of 22 points, a weight of 1/4 and the following rules I->JIC, J->KJL, K->LJI starting with JKS resulting in frequency M:1, L:18, C:4, S:0, Q:0, T:0, Z:0, E:0, Total:23",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 11/42 -3/128,L 673/2400 -11/6000,L 6999/46000 37697/684000,L 16067/116000 -1379/36000,L 1933/16800 491/13200,L 171/16000 52949/612000,C -547301/10488000 866159/14229000 -7627/515200 -60557/4039200 -4553/46000 -263/18000,C -9318949/94116000 -1367/26000 -416677/2884200 -16283/306000 -6489/44000 283/18000,L -2307/16000 463/12600,L -311/1160 1873/36000,C -4916429/18096000 104471/2678400 -396299/2088000 417107/23436000 -3077/16000 40619/1116000,L -7169/27000 1957/252000,L -247/920 -311/12000,L -1699/12000 199/25200,L -23/200 -2513/198000,L -69/8000 -787/18000,L 57/2000 -1717/36000,L 61/600 233/8400,L 17329/92000 -1681/36000,C 1283613/6060500 -4501/56160 142977/798560 -119293/32292000 13303/62000 -29819/468000,L 1919/7200 179/24000,L 15/56 -3/68,L 11/42 -3/128 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 11/42 -3/128,L 673/2400 -11/6000,L 6999/46000 37697/684000,L 16067/116000 -1379/36000,L 1933/16800 491/13200,L 171/16000 52949/612000,C -547301/10488000 866159/14229000 -7627/515200 -60557/4039200 -4553/46000 -263/18000,C -9318949/94116000 -1367/26000 -416677/2884200 -16283/306000 -6489/44000 283/18000,L -2307/16000 463/12600,L -311/1160 1873/36000,C -4916429/18096000 104471/2678400 -396299/2088000 417107/23436000 -3077/16000 40619/1116000,L -7169/27000 1957/252000,L -247/920 -311/12000,L -1699/12000 199/25200,L -23/200 -2513/198000,L -69/8000 -787/18000,L 57/2000 -1717/36000,L 61/600 233/8400,L 17329/92000 -1681/36000,C 1283613/6060500 -4501/56160 142977/798560 -119293/32292000 13303/62000 -29819/468000,L 1919/7200 179/24000,L 15/56 -3/68,L 11/42 -3/128 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

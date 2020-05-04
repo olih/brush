@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-bDOomN98QwxpykP.json",
+  "content-url json en": "https://olih.github.io/brush/brush-bDOomN98QwxpykP.json",
   "name": "brush-bDOomN98QwxpykP",
   "@type": "ImageObject",
   "title en": "Brush brush-bDOomN98QwxpykP",
   "description en": "Brush based on a stake of 14 points, a weight of 1/3 and the following rules I->TKI, J->TKJ, K->IKT starting with TII resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:14, Z:0, E:0, Total:15",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 19/60 -1/54,T 1513/7200 947/162750,T 159/2000 -29/875,T -229/5700 1371/14000,T -13/500 31937/285600,T -6781/63000 81857/1092000,T -7129/22800 6317/84000,T -607/2400 -34453/756000,T -461/3000 -8767/252000,T -7399/174000 -127/1120,T -1/175 -5267/49875,T 2329/12000 -7199/126000,T 4903/31200 -3229/89250,T 65/324 -4/57,T 19/60 -1/54 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 19/60 -1/54,T 1513/7200 947/162750,T 159/2000 -29/875,T -229/5700 1371/14000,T -13/500 31937/285600,T -6781/63000 81857/1092000,T -7129/22800 6317/84000,T -607/2400 -34453/756000,T -461/3000 -8767/252000,T -7399/174000 -127/1120,T -1/175 -5267/49875,T 2329/12000 -7199/126000,T 4903/31200 -3229/89250,T 65/324 -4/57,T 19/60 -1/54 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

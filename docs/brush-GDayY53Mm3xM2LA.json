@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-GDayY53Mm3xM2LA.json",
+  "content-url json en": "https://olih.github.io/brush/brush-GDayY53Mm3xM2LA.json",
   "name": "brush-GDayY53Mm3xM2LA",
   "@type": "ImageObject",
   "title en": "Brush brush-GDayY53Mm3xM2LA",
   "description en": "Brush based on a stake of 5 points, a weight of 1/2 and the following rules I->SJJ, J->JIS, K->IIS starting with SII resulting in frequency M:1, L:0, C:0, S:7, Q:0, T:0, Z:0, E:0, Total:8",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 2/7 -3/50,S 3192881/14364000 48589/912000 4629/38000 1471/24000,S -6033/42560 4889/35200 -907/4000 1507/12000,S -3711/10400 199/2496 -16999/52000 217/3000,S -500969/3224000 1031/14250 -3/62 -31/228,S -4293622993/26646360000 215394707/3330795000 -1733719/32026875 -478462483/3330795000,S -1439397/4030000 125383/1560000 -1318807/4030000 14231/195000,S -38049937/271320000 41809883/284240000 -114871/510000 2592751/19380000 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 2/7 -3/50,S 3192881/14364000 48589/912000 4629/38000 1471/24000,S -6033/42560 4889/35200 -907/4000 1507/12000,S -3711/10400 199/2496 -16999/52000 217/3000,S -500969/3224000 1031/14250 -3/62 -31/228,S -4293622993/26646360000 215394707/3330795000 -1733719/32026875 -478462483/3330795000,S -1439397/4030000 125383/1560000 -1318807/4030000 14231/195000,S -38049937/271320000 41809883/284240000 -114871/510000 2592751/19380000 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

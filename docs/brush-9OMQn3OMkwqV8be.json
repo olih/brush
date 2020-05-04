@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-9OMQn3OMkwqV8be.json",
+  "content-url json en": "https://olih.github.io/brush/brush-9OMQn3OMkwqV8be.json",
   "name": "brush-9OMQn3OMkwqV8be",
   "@type": "ImageObject",
   "title en": "Brush brush-9OMQn3OMkwqV8be",
   "description en": "Brush based on a stake of 11 points, a weight of 1/4 and the following rules I->TIK, J->IIT, K->IKT starting with TJK resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:11, Z:0, E:0, Total:12",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 37/128 -1/32,T 7399/44000 -3239/84000,T 3579/124000 22559/252000,T -149/4000 23167/476000,T -24079/124000 1147/28000,T -21/92 5/104,T -17753/68000 -8783/252000,T -429/4000 -1807/21000,T 259/4000 -6961/308000,T 929/4000 -16957/308000,T 3/13 7/124,T 37/128 -1/32 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 37/128 -1/32,T 7399/44000 -3239/84000,T 3579/124000 22559/252000,T -149/4000 23167/476000,T -24079/124000 1147/28000,T -21/92 5/104,T -17753/68000 -8783/252000,T -429/4000 -1807/21000,T 259/4000 -6961/308000,T 929/4000 -16957/308000,T 3/13 7/124,T 37/128 -1/32 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }
