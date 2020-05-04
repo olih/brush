@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-ZnRymNG927j2o5B.json",
+  "name": "brush-ZnRymNG927j2o5B",
+  "@type": "ImageObject",
+  "title en": "Brush brush-ZnRymNG927j2o5B",
+  "description en": "Brush based on a stake of 5 points, a weight of 1/2 and the following rules I->JKT, J->TJI, K->TKJ starting with TKJ resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:5, Z:0, E:0, Total:6",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 19/56 -5/64,T 1/8 101/868,T -21/68 -1/40,T -1/10 -109/700,T 9/68 -3/34,T 19/56 -5/64 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-PMzk27or13rGpmx.json",
+  "name": "brush-PMzk27or13rGpmx",
+  "@type": "ImageObject",
+  "title en": "Brush brush-PMzk27or13rGpmx",
+  "description en": "Brush based on a stake of 7 points, a weight of 1/2 and the following rules I->SIJ, J->SKI, K->SIK starting with SKJ resulting in frequency M:1, L:0, C:0, S:7, Q:0, T:0, Z:0, E:0, Total:8",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 1/6 -1/25,S 77987/552000 269679/2392000 18329/92000 27963/92000,S 19333/126500 143241/625600 279/22000 15201/46000,S -38189/396000 4188797/14168000 -3/20 6763/44000,S -2051/9936 -2921/34100 -143/1080 -913/4000,S -364957/3348000 -8461/24000 -9441/62000 -537/2000,S 4687561/57288000 -7153/43200 15083/84000 -11087/108000,S 1405573/5208000 4109/108000 1/6 -1/25 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

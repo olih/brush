@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-GJmDbwV65wgz4le.json",
+  "name": "brush-GJmDbwV65wgz4le",
+  "@type": "ImageObject",
+  "title en": "Brush brush-GJmDbwV65wgz4le",
+  "description en": "Brush based on a stake of 14 points, a weight of 1/2 and the following rules I->TII, J->TKK, K->TIJ starting with TJI resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:14, Z:0, E:0, Total:15",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 4/13 1/25,T 387671/1400000 93223/1050000,T 256663/2100000 7082289/43400000,T -764881/8050000 3215459/16100000,T -285609/1400000 123681/1400000,T -19/105 -1/23,T -4321299/16100000 -142159/1400000,T -36293/350000 -235993/1300000,T 121659/700000 -529611/15400000,T 518057/5075000 -12969/350000,T 1063/3780 -1/13,T 194329/3850000 -1158013/21700000,T 1086559/6300000 3211591/26600000,T -108587/2537500 -4833/175000,T 4/13 1/25 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-BemoX3EQo3WgVbp.json",
+  "name": "brush-BemoX3EQo3WgVbp",
+  "@type": "ImageObject",
+  "title en": "Brush brush-BemoX3EQo3WgVbp",
+  "description en": "Brush based on a stake of 7 points, a weight of 1/4 and the following rules I->TJI, J->KIT, K->JIT starting with TII resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:7, Z:0, E:0, Total:8",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 25/116 3/56,T 4013/13600 -7/250,T 7679/44000 -16517/124000,T 333/2000 -13577/168000,T 2029/16800 -30349/168000,T -953/16000 -5721/58000,T -10619/76000 -231/1600,T 25/116 3/56 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

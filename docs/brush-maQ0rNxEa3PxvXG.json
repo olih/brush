@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-maQ0rNxEa3PxvXG.json",
+  "name": "brush-maQ0rNxEa3PxvXG",
+  "@type": "ImageObject",
+  "title en": "Brush brush-maQ0rNxEa3PxvXG",
+  "description en": "Brush based on a stake of 9 points, a weight of 1/4 and the following rules I->IKT, J->TIK, K->TIK starting with TJI resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:9, Z:0, E:0, Total:10",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 7/31 -5/88,T 23089/108000 43261/828000,T 1/120 1/12,T -16503/116000 65503/1044000,T -11/46 -1/112,T -22917/124000 -1787/36000,T 1/42 -2/153,T 7363/36000 5047/144000,T 9/46 -1/48,T 7/31 -5/88 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

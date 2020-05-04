@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-8GVrnwpdmwLaQp6.json",
+  "name": "brush-8GVrnwpdmwLaQp6",
+  "@type": "ImageObject",
+  "title en": "Brush brush-8GVrnwpdmwLaQp6",
+  "description en": "Brush based on a stake of 6 points, a weight of 1/2 and the following rules I->KKS, J->IJS, K->KIS starting with IIS resulting in frequency M:1, L:0, C:0, S:6, Q:0, T:0, Z:0, E:0, Total:7",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 11/40 -5/48,S 124007/504000 12101/390000 9101/36000 893/10000,S 300221/2052000 953237/10440000 -277/21600 21899/580000,S -27871/378000 6231773/73370000 -6827/108000 1987/44000,S -108586/450225 -445177/31372000 -33491/116000 1411/24800,S -5266597/15822400 431077/3720000 -9283/62000 1373/15000,S 411107/2604000 2449/140000 11/40 -5/48 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

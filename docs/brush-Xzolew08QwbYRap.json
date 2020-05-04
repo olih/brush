@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-Xzolew08QwbYRap.json",
+  "name": "brush-Xzolew08QwbYRap",
+  "@type": "ImageObject",
+  "title en": "Brush brush-Xzolew08QwbYRap",
+  "description en": "Brush based on a stake of 5 points, a weight of 1/2 and the following rules I->JISLLS, J->SLLSJK, K->JJSLLS starting with IKSLLS resulting in frequency M:1, L:4, C:0, S:3, Q:0, T:0, Z:0, E:0, Total:8",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 5/22 -2/25,S 79609/1144000 -43789/545600 -10581/52000 277/4960,L -35373/116000 -409/4320,L -3999/92000 -299/1000,S 2013433/21675200 -1112687/3864000 553/7750 -8653/84000,S 165396137/1625640000 -5442738097/18566520000 149183/1860000 -502212413/4641630000,L -42953/1242000 -4412557/15341000,L -421808089/1359288000 -1038041/11400480 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

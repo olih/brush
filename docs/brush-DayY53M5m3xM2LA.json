@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-DayY53M5m3xM2LA.json",
+  "name": "brush-DayY53M5m3xM2LA",
+  "@type": "ImageObject",
+  "title en": "Brush brush-DayY53M5m3xM2LA",
+  "description en": "Brush based on a stake of 8 points, a weight of 1/6 and the following rules I->KJS, J->KIS, K->SKK starting with SKI resulting in frequency M:1, L:0, C:0, S:13, Q:0, T:0, Z:0, E:0, Total:14",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 2/7 -1/174,S 8608403/31416000 767471/70992000 44239/204000 -853/72000,S 730627/6324000 -46309/14256000 4157/74400 -851/44000,S -234399/9982000 -28703/374000 -7421/84000 -1471/26400,S -161701/873600 -214751/9424800 -6149/24000 -293/10080,S -87227/374400 -3493081/77112000 -4237/18000 1369/81000,S -6265759/27144000 298637/4536000 -60899/348000 3323/64800,S -96191/1392000 550481/9072000 -289/8000 539/24000,S -63845659/939600000 87126863/1315440000 -141637/4050000 48743/1740000,S -186572969/814320000 82632643/1315440000 -10854143/62640000 9069259/187920000,S -1414198061/6093360000 -273121921/5976180000 -27478613/117180000 1657087/100440000,S -827868967/4468464000 -348684811/14608440000 -44062541/171864000 -336479/11160000,S -334736293/13999755000 -15227127/202895000 -2324083/26180000 -131531969/2434740000,S 320850331/2782560000 296973949/187822800000 3036201/54560000 -8412249/579700000 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

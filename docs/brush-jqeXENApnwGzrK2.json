@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-jqeXENApnwGzrK2.json",
+  "name": "brush-jqeXENApnwGzrK2",
+  "@type": "ImageObject",
+  "title en": "Brush brush-jqeXENApnwGzrK2",
+  "description en": "Brush based on a stake of 6 points, a weight of 1/2 and the following rules I->SLLSII, J->JISLLS, K->KKSLLS starting with IJSLLS resulting in frequency M:1, L:2, C:0, S:4, Q:0, T:0, Z:0, E:0, Total:7",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 11/32 -1/62,S 97381/476000 -546101/6696000 16591/68000 5029/108000,L 779/22000 -71/2000,L -301/1160 23629/156000,S -191899/683240 125/6448 -179/1240 4577/372000,S 702589/27404000 138993/3224000 113/34000 -9331/78000,S 35601/136000 -11937569/140244000 11/32 -1/62 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-DayY53MLgNxM2LA.json",
+  "name": "brush-DayY53MLgNxM2LA",
+  "@type": "ImageObject",
+  "title en": "Brush brush-DayY53MLgNxM2LA",
+  "description en": "Brush based on a stake of 5 points, a weight of 2/3 and the following rules I->IJCLLQ, J->JICLLQ, K->JIQLLC starting with JKQLLC resulting in frequency M:1, L:4, C:1, S:0, Q:2, T:0, Z:0, E:0, Total:8",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 37/180 4/39,C 1512707/26622000 -817/4914000 157873/459000 82561/819000 5887/34000 5591/126000,L -91/360 -84557/1044000,L -2361/28000 46153/468000,Q -755/9828 -1540787/9828000 4099/52000 -13657/108000,Q -11957/147420 -54996493/343980000 2197733/29484000 -44566493/343980000,L -7958773/104504400 728411/8008000,L -45251377/175392000 -13469971/212976000 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

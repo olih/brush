@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-bDOomN9ov7xpykP.json",
+  "name": "brush-bDOomN9ov7xpykP",
+  "@type": "ImageObject",
+  "title en": "Brush brush-bDOomN9ov7xpykP",
+  "description en": "Brush based on a stake of 15 points, a weight of 1/5 and the following rules I->JJS, J->SJI, K->IIS starting with KIS resulting in frequency M:1, L:0, C:0, S:15, Q:0, T:0, Z:0, E:0, Total:16",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 143/620 4/95,S 149533/677040 1064183/13224000 229/840 22157/348000,S 18989/84000 1623761/18676000 399/2000 25163/276000,S 5177/36800 5233/64400 397/4000 1199/12000,S 371/8640 2279927/21576000 -1397/54000 7897/186000,S -10661/95040 25393/1736000 -503/4000 4267/84000,S -50053/248000 88339/924000 -53/200 5963/132000,S -733/2400 11933701/139128000 -17/60 1/31,S -7297/29760 707809/12648000 -29/160 3377/372000,S -32729/234000 -23273/868000 -5207/36000 -8467/84000,S -1441/14400 -13009/123200 -5619/58000 -3109/42000,S -1373/17864 -50297/462000 477/14000 -107/1200,S 34187/324800 -11219/216000 14067/116000 -10229/108000,S 6421/46400 -18041/216000 3/16 23/3000,S 11167/40480 -671/25500 61/220 -3/85,S 1181/5456 767/35530 143/620 4/95 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

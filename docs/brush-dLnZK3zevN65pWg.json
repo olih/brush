@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-dLnZK3zevN65pWg.json",
+  "name": "brush-dLnZK3zevN65pWg",
+  "@type": "ImageObject",
+  "title en": "Brush brush-dLnZK3zevN65pWg",
+  "description en": "Brush based on a stake of 7 points, a weight of 1/4 and the following rules I->IIT, J->KJT, K->TJK starting with JKT resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:7, Z:0, E:0, Total:8",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 19/96 -3/56,T 3181/14000 1031/44000,T 6017/116000 4817/29000,T -21469/124000 593/4000,T -9451/36000 -191/16000,T -3517/12000 69/4000,T -2/11 -283/4000,T 19/96 -3/56 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

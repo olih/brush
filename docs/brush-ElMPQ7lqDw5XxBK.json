@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-ElMPQ7lqDw5XxBK.json",
+  "name": "brush-ElMPQ7lqDw5XxBK",
+  "@type": "ImageObject",
+  "title en": "Brush brush-ElMPQ7lqDw5XxBK",
+  "description en": "Brush based on a stake of 9 points, a weight of 1/4 and the following rules I->JJSLLS, J->SLLSKI, K->SLLSKJ starting with SLLSJK resulting in frequency M:1, L:4, C:0, S:5, Q:0, T:0, Z:0, E:0, Total:10",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 17/56 1/88,S 974069/3472000 -119753/1716000 1157/8000 -891/26000,L 197/6000 -701/5500,L -35/248 -4589/48000,S -6601877/50344000 -11233/224000 -5323/28000 79/6000,S -2549/14000 935/22272 -5573/28000 581/16000,L -11473/108000 7129/78000,L 17/116000 9/125,S 254691/2552000 38263/2052000 77/500 2389/54000,S 208/875 20741/4752000 17/56 1/88 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

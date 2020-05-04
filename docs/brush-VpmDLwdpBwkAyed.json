@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-VpmDLwdpBwkAyed.json",
+  "name": "brush-VpmDLwdpBwkAyed",
+  "@type": "ImageObject",
+  "title en": "Brush brush-VpmDLwdpBwkAyed",
+  "description en": "Brush based on a stake of 24 points, a weight of 1/2 and the following rules I->TKI, J->TIJ, K->IIT starting with TKK resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:24, Z:0, E:0, Total:25",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 17/108 1/60,T 18689/106250 23511/287500,T 28999/100000 -23641/1650000,T 122889/550000 -12293/150000,T 48397/300000 17701/100000,T 4/115 733/7500,T -79741/2900000 3523/100000,T 5448/40625 13223/75000,T -13101/387500 61381/350000,T 9789/181250 14809/168750,T -68443/380000 20629/130000,T -195173/1550000 -1093/1050000,T -120857/2100000 -12863/600000,T -497/575000 -4017/137500,T -46669/550000 67457/2300000,T -33/230 1/54,T -133619/950000 44411/900000,T -2379/21875 -25772/215625,T -246271/1700000 5297/100000,T -23653/200000 56/9375,T -17/120 -811/10000,T 31629/475000 -44791/575000,T -12929/137500 -18961/650000,T -5951/143750 -202907/2325000,T 17/108 1/60 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-VpmDLwdg27kAyed.json",
+  "name": "brush-VpmDLwdg27kAyed",
+  "@type": "ImageObject",
+  "title en": "Brush brush-VpmDLwdg27kAyed",
+  "description en": "Brush based on a stake of 7 points, a weight of 1/2 and the following rules I->JICLLQ, J->JIQLLC, K->JICLLQ starting with IKQLLC resulting in frequency M:1, L:4, C:2, S:0, Q:1, T:0, Z:0, E:0, Total:8",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 3/10 7/60,C 38071/168000 2649/56000 115037/348000 70643/546000 2353/8000 4133/84000,L 63/1000 4169/24800,L -6331/62000 5687/26000,Q -4871/139500 2599/19500 -2419/18000 29/2000,C -11141/378000 -3793/47600 -1483/378000 -97109/782000 -59/560 -5471/34000,L 2813/76000 -31869/116000,L 3/10 7/60 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

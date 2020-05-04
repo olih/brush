@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-BemoX3EoAwWgVbp.json",
+  "name": "brush-BemoX3EoAwWgVbp",
+  "@type": "ImageObject",
+  "title en": "Brush brush-BemoX3EoAwWgVbp",
+  "description en": "Brush based on a stake of 9 points, a weight of 1/2 and the following rules I->SKJ, J->IIS, K->IJS starting with SIK resulting in frequency M:1, L:0, C:0, S:9, Q:0, T:0, Z:0, E:0, Total:10",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 5/24 1/32,S 741757/5208000 467797/6090000 13917/124000 -39497/580000,S -38971/496000 3992569/26680000 -7/64 3/20,S -3769/16000 23391/520000 -807/4000 1107/20000,S -28333/152000 1900993/11960000 -21/76 5/46,S -261223/912000 52177637/720360000 -2039/8000 -503/580000,S -699/16000 -764563/24360000 -1/50 -71/420,S 865367/4968000 -984827/6440000 20261/92000 13739/460000,S 9590323/26312000 -1768959/17480000 17/52 -1/46,S 1295/5616 1577/22080 5/24 1/32 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

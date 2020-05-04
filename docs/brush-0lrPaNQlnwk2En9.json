@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-0lrPaNQlnwk2En9.json",
+  "name": "brush-0lrPaNQlnwk2En9",
+  "@type": "ImageObject",
+  "title en": "Brush brush-0lrPaNQlnwk2En9",
+  "description en": "Brush based on a stake of 11 points, a weight of 1/2 and the following rules I->KJL, J->KIL, K->SIJ starting with SJK resulting in frequency M:1, L:5, C:0, S:6, Q:0, T:0, Z:0, E:0, Total:12",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 15/52 -1/11,S 1017979/2600000 -34350793/303600000 26383/100000 640837/13800000,S 32999/143750 38418289/349600000 564159/2300000 -797693/22800000,L 6103/2900000 71873/400000,L 1127/18750 966289/6600000,S -311717/23400000 2457797/23100000 -24331/780000 181919/1320000,L -181423/700000 809559/6800000,L -238917/950000 35459/400000,L -353893/1450000 522651/7600000,S -84165517/827080000 573169/205200000 -203533/2300000 -54903/400000,S -58206643/786600000 -695729/26400000 -389/2280 -763/120000,S 226843/1837680 -275537/23760000 15/52 -1/11 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

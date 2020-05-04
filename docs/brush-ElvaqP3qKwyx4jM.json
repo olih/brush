@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-ElvaqP3qKwyx4jM.json",
+  "name": "brush-ElvaqP3qKwyx4jM",
+  "@type": "ImageObject",
+  "title en": "Brush brush-ElvaqP3qKwyx4jM",
+  "description en": "Brush based on a stake of 10 points, a weight of 1/2 and the following rules I->IIS, J->JIC, K->LIJ starting with LIJ resulting in frequency M:1, L:1, C:2, S:7, Q:0, T:0, Z:0, E:0, Total:11",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 7/30 -1/31,L 47/300 -1979/12000,S 9133/43200 -2498701/8184000 803/2700 -6967/22000,S 2417/20790 -1041649/3432000 341/2100 -2561/12000,S 244331/846300 -1271/171600 2429/9300 277/44000,S 87773/719200 -5971/2024000 29/240 4959/46000,S 1421/21600 11682647/39928000 209/2700 41481/124000,S 21803/122850 102787/1178000 193/1950 -143/38000,S 7971/40040 -1430/12369 151/2100 -2293/62000,C 137/819 -110941/744000 18587/1392300 -504499/4836000 47/650 -2027/8000,C 466/2925 -17433/248000 7433/46800 -174511/2232000 7/30 -1/31 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}

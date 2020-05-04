@@ -1,0 +1,16 @@
+{
+  "content-url json en": "https://m.olivierhuin.com/i/brush-JvbRqN2867V6WBk.json",
+  "name": "brush-JvbRqN2867V6WBk",
+  "@type": "ImageObject",
+  "title en": "Brush brush-JvbRqN2867V6WBk",
+  "description en": "Brush based on a stake of 11 points, a weight of 1/3 and the following rules I->TJJ, J->TIK, K->TJJ starting with TJJ resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:11, Z:0, E:0, Total:12",
+  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author en": "Olivier Huin",
+  "copyright-year": "2020",
+  "license en": "Attribution 4.0 International",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution-name en": "Olivier Huin",
+  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 41/132 4/93,T 9021/34000 16823/420000,T 737/7200 6511/54000,T -10327/114000 19447/810000,T -66179/252000 -49/1500,T -7669/27000 -90613/1260000,T -127/600 28309/540000,T -31/696 -1233/10000,T -519/26000 -13973/180000,T 59249/252000 17351/580000,T 17417/69600 -6911/130000,T 41/132 4/93 ]",
+  "brush-ratio": "1/1",
+  "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
+}
