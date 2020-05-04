@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-WyO48rNZL7D6Jbe.json",
+  "content-url json en": "https://olih.github.io/brush/brush-WyO48rNZL7D6Jbe.json",
   "name": "brush-WyO48rNZL7D6Jbe",
   "@type": "ImageObject",
   "title en": "Brush brush-WyO48rNZL7D6Jbe",
   "description en": "Brush based on a stake of 5 points, a weight of 1/7 and the following rules I->SKI, J->KIS, K->IIS starting with SJJ resulting in frequency M:1, L:0, C:0, S:5, Q:0, T:0, Z:0, E:0, Total:6",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 87/308 2/161,S 23893/132000 -3537787/34260800 447/14000 -10351/39200,S -193773/1475600 -196249/1764000 -17221/62000 -7529/252000,S -4732279/22766400 149533/1188000 -40487/476000 173629/756000,S 7583/136000 5034253/32292000 1751/7000 20851/364000,S 691209/2926000 687573/16744000 87/308 2/161 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 87/308 2/161,S 23893/132000 -3537787/34260800 447/14000 -10351/39200,S -193773/1475600 -196249/1764000 -17221/62000 -7529/252000,S -4732279/22766400 149533/1188000 -40487/476000 173629/756000,S 7583/136000 5034253/32292000 1751/7000 20851/364000,S 691209/2926000 687573/16744000 87/308 2/161 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

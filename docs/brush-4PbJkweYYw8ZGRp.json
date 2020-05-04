@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-4PbJkweYYw8ZGRp.json",
+  "content-url json en": "https://olih.github.io/brush/brush-4PbJkweYYw8ZGRp.json",
   "name": "brush-4PbJkweYYw8ZGRp",
   "@type": "ImageObject",
   "title en": "Brush brush-4PbJkweYYw8ZGRp",
   "description en": "Brush based on a stake of 6 points, a weight of 1/7 and the following rules I->TKI, J->TJI, K->TJJ starting with TKK resulting in frequency M:1, L:0, C:0, S:0, Q:0, T:6, Z:0, E:0, Total:7",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 83/364 2/133,T 40147/252000 -121231/4340000,T -3457/94500 -4187/210000,T -110923/588000 -46289/2940000,T -80729/322000 25939/1540000,T -114311/756000 147899/2030000,T 83/364 2/133 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 83/364 2/133,T 40147/252000 -121231/4340000,T -3457/94500 -4187/210000,T -110923/588000 -46289/2940000,T -80729/322000 25939/1540000,T -114311/756000 147899/2030000,T 83/364 2/133 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

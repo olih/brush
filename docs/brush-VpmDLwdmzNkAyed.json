@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-VpmDLwdmzNkAyed.json",
+  "content-url json en": "https://olih.github.io/brush/brush-VpmDLwdmzNkAyed.json",
   "name": "brush-VpmDLwdmzNkAyed",
   "@type": "ImageObject",
   "title en": "Brush brush-VpmDLwdmzNkAyed",
   "description en": "Brush based on a stake of 7 points, a weight of 1/6 and the following rules I->SKI, J->SJJ, K->IKS starting with SII resulting in frequency M:1, L:0, C:0, S:7, Q:0, T:0, Z:0, E:0, Total:8",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 21/92 2/63,S 95795119/462024000 651451/8568000 46463/324000 31831/204000,S 1045549/18792000 6632851/28641600 -1219/58000 41447/162000,S -10961099/124236000 3254977/20088000 -479/2040 32269/372000,S -2569/9945 -1295/51243 -83/360 -28681/228000,S -12969/116000 -19031/114000 -2657/174000 -1561/6000,S 14395897/160776000 -25273/100800 7853/44000 -41203/252000,S 3502171/18216000 -155233/5544000 21/92 2/63 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 21/92 2/63,S 95795119/462024000 651451/8568000 46463/324000 31831/204000,S 1045549/18792000 6632851/28641600 -1219/58000 41447/162000,S -10961099/124236000 3254977/20088000 -479/2040 32269/372000,S -2569/9945 -1295/51243 -83/360 -28681/228000,S -12969/116000 -19031/114000 -2657/174000 -1561/6000,S 14395897/160776000 -25273/100800 7853/44000 -41203/252000,S 3502171/18216000 -155233/5544000 21/92 2/63 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

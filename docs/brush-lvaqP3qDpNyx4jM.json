@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-lvaqP3qDpNyx4jM.json",
+  "content-url json en": "https://olih.github.io/brush/brush-lvaqP3qDpNyx4jM.json",
   "name": "brush-lvaqP3qDpNyx4jM",
   "@type": "ImageObject",
   "title en": "Brush brush-lvaqP3qDpNyx4jM",
   "description en": "Brush based on a stake of 16 points, a weight of 1/6 and the following rules I->SLLSIK, J->SLLSIK, K->SLLSII starting with KISLLS resulting in frequency M:1, L:9, C:0, S:7, Q:0, T:0, Z:0, E:0, Total:17",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 47/204 -1/120,S 5962469/25704000 12587/312000 21173/84000 299/12000,L 6271/36000 4729/84000,L 12197/132000 5353/84000,S 4127/2059200 20539/571200 -167/4500 -379/102000,S -43147/342000 221251/8139600 -32443/228000 2897/126000,L -2347/12000 469/36000,L -52477/186000 17519/476000,S -1222267/3906000 239/44574 -3923/14000 -84283/1932000,S -17582057/65688000 -2796683/59892000 -37259/204000 59/4000,L -19/168 -7289/462000,L -281/6000 -4343/66000,S 4447/347200 -6221923/103118400 6989/84000 -15481/868000,S 262043/1848000 -405497/10788000 8359/44000 11/84000,L 35129/132000 19/3000,L 41/168 5/174,L 47/204 -1/120 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 47/204 -1/120,S 5962469/25704000 12587/312000 21173/84000 299/12000,L 6271/36000 4729/84000,L 12197/132000 5353/84000,S 4127/2059200 20539/571200 -167/4500 -379/102000,S -43147/342000 221251/8139600 -32443/228000 2897/126000,L -2347/12000 469/36000,L -52477/186000 17519/476000,S -1222267/3906000 239/44574 -3923/14000 -84283/1932000,S -17582057/65688000 -2796683/59892000 -37259/204000 59/4000,L -19/168 -7289/462000,L -281/6000 -4343/66000,S 4447/347200 -6221923/103118400 6989/84000 -15481/868000,S 262043/1848000 -405497/10788000 8359/44000 11/84000,L 35129/132000 19/3000,L 41/168 5/174,L 47/204 -1/120 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

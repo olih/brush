@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-52LVjw6dG30Jxr1.json",
+  "content-url json en": "https://olih.github.io/brush/brush-52LVjw6dG30Jxr1.json",
   "name": "brush-52LVjw6dG30Jxr1",
   "@type": "ImageObject",
   "title en": "Brush brush-52LVjw6dG30Jxr1",
   "description en": "Brush based on a stake of 7 points, a weight of 1/2 and the following rules I->LKK, J->IIL, K->IIS starting with LIJ resulting in frequency M:1, L:5, C:0, S:2, Q:0, T:0, Z:0, E:0, Total:8",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 7/22 -1/52,L 7999/52000 -2663/42000,L 19433/76000 -3637/108000,S 1260439/4408000 -481721/9439200 12539/58000 39229/276000,S 380507/1508000 213033/5704000 3/52 17/276,L -12539/58000 10961/84000,L -4777/44000 7949/84000,L 7/22 -1/52 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 7/22 -1/52,L 7999/52000 -2663/42000,L 19433/76000 -3637/108000,S 1260439/4408000 -481721/9439200 12539/58000 39229/276000,S 380507/1508000 213033/5704000 3/52 17/276,L -12539/58000 10961/84000,L -4777/44000 7949/84000,L 7/22 -1/52 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }

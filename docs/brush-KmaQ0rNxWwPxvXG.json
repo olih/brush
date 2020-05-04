@@ -1,16 +1,17 @@
 {
-  "content-url json en": "https://m.olivierhuin.com/i/brush-KmaQ0rNxWwPxvXG.json",
+  "content-url json en": "https://olih.github.io/brush/brush-KmaQ0rNxWwPxvXG.json",
   "name": "brush-KmaQ0rNxWwPxvXG",
   "@type": "ImageObject",
   "title en": "Brush brush-KmaQ0rNxWwPxvXG",
   "description en": "Brush based on a stake of 13 points, a weight of 1/2 and the following rules I->KIQ, J->KIQ, K->IKL starting with KJC resulting in frequency M:1, L:7, C:0, S:0, Q:6, T:0, Z:0, E:0, Total:14",
-  "author-url html en": "https://m.olivierhuin.com/profile",
+  "author-url html en": "https://olih.github.io/brush/profile.html",
   "author en": "Olivier Huin",
   "copyright-year": "2020",
   "license en": "Attribution 4.0 International",
-  "license-url html en": "https://creativecommons.org/licenses/by/4.0/",
+  "license-url html en": "https://creativecommons.org/licenses/by/4.0/legalcode",
   "attribution-name en": "Olivier Huin",
-  "homepage-url,markdown,en: https://github.com/owner/project#readmebrush": "[ M 25/124 1/28,L 7573/28000 -571/6000,Q 67631/324800 -7403/108000 223/2000 -29/250,Q 461/28000 61/4500 1/10 -799/18000,Q 5063/88000 -137603/1026720 -1097/44000 -771/15500,L 3097/44000 -1193/11500,L -55/248 103/54000,L -649/6000 -10103/58000,Q -18133/52800 -52127/377000 -4217/12000 103/2000,L -15/44 -1/26,L -15109/124000 91/1000,L -2213/22000 2249/14000,Q -124727/1214400 799/22000 -13477/92000 677/14000,Q 24409/178250 -19513/868000 25/124 1/28 ]",
+  "homepage-url markdown en:": "https://github.com/olih/brush/blob/master/README.md",
+  "brush": "[ M 25/124 1/28,L 7573/28000 -571/6000,Q 67631/324800 -7403/108000 223/2000 -29/250,Q 461/28000 61/4500 1/10 -799/18000,Q 5063/88000 -137603/1026720 -1097/44000 -771/15500,L 3097/44000 -1193/11500,L -55/248 103/54000,L -649/6000 -10103/58000,Q -18133/52800 -52127/377000 -4217/12000 103/2000,L -15/44 -1/26,L -15109/124000 91/1000,L -2213/22000 2249/14000,Q -124727/1214400 799/22000 -13477/92000 677/14000,Q 24409/178250 -19513/868000 25/124 1/28 ]",
   "brush-ratio": "1/1",
   "brush-coordinate-system": "system cartesian right-dir + up-dir - origin-x 1/2 origin-y 1/2"
 }
